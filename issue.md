@@ -19,6 +19,9 @@ node index.js
 node index-mine.js
 ```
 
+我的输出：[e2](https://github.com/WeiFei365/pdfjs-node-cmap/blob/master/images/e2.png)
+My terminal show in this: [e2](https://github.com/WeiFei365/pdfjs-node-cmap/blob/master/images/e2.png)
+
 3. 上面两条命令会得到两个不同的文本，其中，我认为第二个才是对的；因为，我把 PDF 文件用 [pdf.js](https://github.com/mozilla/pdf.js) 在浏览器(Chrome) 打开时，他的输出文本就是这样；
 After these two commands above, I got two different string content. I think the second one should be right, because I open pdf file with [pdf.js](https://github.com/mozilla/pdf.js)  in Chrome, the output string like this:
 
